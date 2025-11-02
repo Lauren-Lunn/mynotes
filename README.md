@@ -15,3 +15,6 @@
 + 16:00 - [COMP1238 - Data Mgmnt](https://learn.georgebrown.ca/d2l/home/412494)
 + 18:00 - [COMP1151 - IT ESSENTIALS](https://learn.georgebrown.ca/d2l/home/408352)
 
+...
+attempt number 42
+https://github.com/lauren-lunn/mynotes
