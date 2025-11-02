@@ -7,10 +7,11 @@
 
 - [link text](comp1238.md)
 
-Monday
-16:00 - COMP1236 - COMPUTING LOGIC
-18:00 - COMP1234 - WEB DEVELOP
-Tuesday
-16:00 - COMP1238 - Data Mgmnt
-18:00 - COMP1151 - IT ESSENTIALS
+## schedule
+- Monday
++ 16:00 - [COMP1236 - COMPUTING LOGIC](https://learn.georgebrown.ca/d2l/home/416378)
++ 18:00 - [COMP1234 - WEB DEVELOP](https://learn.georgebrown.ca/d2l/home/416188)
+- Tuesday
++ 16:00 - [COMP1238 - Data Mgmnt](https://learn.georgebrown.ca/d2l/home/412494)
++ 18:00 - [COMP1151 - IT ESSENTIALS](https://learn.georgebrown.ca/d2l/home/408352)
 
